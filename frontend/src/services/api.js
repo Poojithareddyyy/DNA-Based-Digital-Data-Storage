@@ -1,4 +1,4 @@
-const API_BASE_URL = "http://localhost:8000";
+const API_BASE_URL = "https://dna-based-digital-data-storage.onrender.com";
 
 export const encodeFile = async (file) => {
     const formData = new FormData();
