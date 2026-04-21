@@ -9,7 +9,8 @@ The system provides a user-friendly interface where users can upload files, enco
 # Live Demo
 
 Frontend (Vercel)
-dna-based-digital-data-storage.vercel.app
+https://dna-based-digital-data-storage.vercel.app/
+
 
 Backend API (Render)
 https://dna-based-digital-data-storage.onrender.com
